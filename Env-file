@@ -1,0 +1,8 @@
+NODE_ENV=development
+PORT=5000
+MONGO_URI=mongodb+srv://karima123:karima123@cluster0.37v7nzy.mongodb.net/proshop?retryWrites=true&w=majority&appName=Cluster0
+JWT_SECRET = abc123
+PAYPAL_CLIENT_ID=AdIe89GqSRrOh4LaQy5_w0gejM9DFWWicjzQOwsJYQ4_KXcsTyDSrU2pnnN4nI48Izy4S6NWEwaeCRKi
+# PAYPAL_APP_SECRET=EAt598z56FLtNRIcZ-7g7Nxnk4_k9YQOn2lwLFWsA08Z9n3kaHdmlSHEjeWKnWYHzfjRvzgw8PHqsbJb
+PAGINATION_LIMIT=8
+# VITE_API_URL=http://localhost:5000
